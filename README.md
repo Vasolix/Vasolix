@@ -1,6 +1,6 @@
 ### Vasolix 💥
 
-Salut ! Je suis un jeune développeur français qui adore discord
+Salut ! Je suis un jeune développeur français qui adore discord et les site 
 
 - ❗ Assistance et aide :
 
