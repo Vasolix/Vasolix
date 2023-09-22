@@ -27,7 +27,7 @@
 <img src="http://views.whatilearened.today/views/github/vasolix/views.svg"/>
 <h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
 <p>
-  🧔 Moi c'est <bold>Melvyn</bold>. 17 ans, un amateur de code et de ☕.<br/>
+  🧔 Moi c'est <bold>Melvyn</bold>. 18 ans, un amateur de code et de ☕.<br/>
   💼 J'habite à <a href="https://www.google.com/maps?q=Le Mans">Le Mans</a>, en France.<br/>
   💻 Développeur Web.<br/>
   🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/Vasolix">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
@@ -38,4 +38,4 @@
 
 -----
 
-Last Edited on: 05/04/2022
+Last Edited on: 22/09/2023
